@@ -1,7 +1,7 @@
 [![MasterHead](https://d1aueex22ha5si.cloudfront.net/Conference/1209/BackGround/Machine%20Learning-1599808127617.gif)](https://muhammadoo.io)
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate Data Science developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1670/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadoo&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadoo" /> </p>
