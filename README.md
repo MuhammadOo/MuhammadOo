@@ -8,11 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadoo&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadoo" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**.
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about anything you want of my projects.
 
 - 📫 How to reach me **muhammad.ojagzada.std@bhos.edu.az**
+
+- ⚡ Fun fact: I like playing guitar and video games.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
