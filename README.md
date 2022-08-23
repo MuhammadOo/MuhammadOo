@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadoo&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadoo" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**.
+- 🌱 I’m currently learning **TensorFlow**.
 
 - 💬 Ask me about anything you want of my projects.
 
